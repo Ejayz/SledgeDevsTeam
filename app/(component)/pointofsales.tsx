@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function PointOfSales() {
     return (<>
-        <div className="hero min-h-screen bg-base-200">
+        <div className="hero min-h-auto bg-base-200">
             <div className="hero-content flex-col lg:flex-row">
                 <img src="/samples/pointofsales.PNG" className="max-w-sm h-full rounded-lg shadow-2xl" />
                 <div>
